@@ -1,7 +1,7 @@
 # NinePathTackShooter
 
 <a href="https://github.com/Mattcy1/NinePathTackShooter/releases/download/BTD6-mod/NinePathTackShooter.dll">
-    <img align="left" alt="Icon" height="90" src="MattcyTower-Icon.png">
+    <img align="left" alt="Icon" height="90" src="Icon">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
